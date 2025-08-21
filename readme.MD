@@ -1,7 +1,4 @@
-<h2>hi ^^</h1>
-
-## Hi 👋
-
+<b> Hi 👋</b>
 - I’m undergraduate statistics student at Institut Teknologi Sepuluh Nopember
 - Interested in data analysis, data warehousing, and machine learning.
 - Reach me out through **[LinkedIn](https://www.linkedin.com/in/mahastuti)**
