@@ -1,7 +1,7 @@
 <b> Hii 🌻</b>
-- I’m undergraduate statistics student at Institut Teknologi Sepuluh Nopember
-- Interested in data analysis, machine learning and design graphics.
-- Reach me out through **[LinkedIn](https://www.linkedin.com/in/mahastuti)** or **[Email](rabbidblade22@gmail.com)**
+- I'm an undergraduate Statistics student at Institut Teknologi Sepuluh Nopember.  
+- Interested in data analysis, machine learning, and graphic design.  
+- Feel free to reach out to me via **[LinkedIn](https://www.linkedin.com/in/mahastuti)** or **[Email](rabbidblade22@gmail.com)**
 
 <b> 🦖 Programming Language </b>
 <div align="left">
