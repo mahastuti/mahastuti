@@ -3,13 +3,15 @@
 - Interested in data analysis, machine learning, and graphic design.  
 - Feel free to reach out to me via **[LinkedIn](https://www.linkedin.com/in/mahastuti)** or **[Email](rabbidblade22@gmail.com)**
 
-<b> 🦖 Programming Language </b>
+<b> 🦖 Skill Set </b>
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original-wordmark.svg" height="40" alt="nextjs logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 <img width="12" />
