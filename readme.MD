@@ -3,7 +3,7 @@
 - Interested in data analysis, machine learning, and graphic design.  
 - Feel free to reach out to me via **[LinkedIn](https://www.linkedin.com/in/mahastuti)** or **[Email](rabbidblade22@gmail.com)**
 
-<b>🦖 Gear </b>
+<b>🦖 Tools of the Trade </b>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Go logo" />
   <img width="12" />
