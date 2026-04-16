@@ -20,3 +20,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
 </div>
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/andikadibyaa">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andikadibyaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andikadibyaa&theme=algolia"/>
+</a>
+</p>
