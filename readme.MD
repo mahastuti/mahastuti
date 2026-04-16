@@ -22,7 +22,7 @@
 </div>
 
 <br>
-<b>⏳ Github Statistic </b><br>
+<b>⏳ Github Statistic </b><br><br>
 <p align="left">
 <a href="https://github.com/andikadibyaa">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andikadibyaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
