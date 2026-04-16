@@ -1,7 +1,8 @@
 <b> Hii 🌻</b>
 - I'm an undergraduate Statistics student at Institut Teknologi Sepuluh Nopember.  
-- Interested in data analysis, machine learning, and graphic design.  
-- Feel free to reach out to me via **[LinkedIn](https://www.linkedin.com/in/mahastuti)** or **[Email](nalinmhs@gmail.com)**
+- I’m ready to build a career in data analysis and MLOps. 
+- My expertise spans statistical analysis, predictive modeling, interactive data visualization, AI system integration and have a capability to understand back-end development. This allows me to build and implement efficient data structures and systems. 
+- Feel free to reach out to me via **[LinkedIn](https://www.linkedin.com/in/mahastuti)** or **[Email](nalinmhp@gmail.com)**
 
 <b>🦖 Tools of the Trade </b>
 <div align="left">
