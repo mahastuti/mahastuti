@@ -24,7 +24,7 @@
 <br>
 <b>⏳ Github Statistic </b><br><br>
 <p align="left">
-<a href="https://github.com/andikadibyaa">
+<a href="https://github.com/mahastuti">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahastuti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahastuti&theme=algolia"/>
 </a>
